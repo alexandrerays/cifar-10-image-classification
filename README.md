@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo desenvolver um modelo de classificação de imagens utilizando uma arquitetura de Rede Neural Convolucional (CNN) e técnicas de Transfer Learning com a rede pré-treinada VGG16. O dataset utilizado é o CIFAR-10, que contém 60.000 imagens coloridas de 10 classes diferentes.
 
+Para abrir o notebook do projeto, [clique aqui](https://github.com/alexandrerays/cifar-10-image-classification/blob/main/image_classifier.ipynb).
+
 ## Estrutura do Projeto
 
 1. **Carregamento e Visualização de Imagens**
